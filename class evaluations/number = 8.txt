@@ -1,0 +1,22 @@
+number = 8
+integer = 150
+interger = 35
+
+float are data with decimal points
+
+this = 2.6
+num = 6.5
+go = 5.3
+digits = 5.0
+
+boolen are data with true or false
+
+sky_is_red  = false
+trees_are_blue = false
+water_is_liquid = true
+
+none are data with none
+
+access = none   
+
+print 
